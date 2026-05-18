@@ -8,6 +8,9 @@
 
 TerraDyne is an MIT-licensed Unreal Engine 5.7 plugin for teams building survival, sandbox, and open-world games on top of Unreal Landscapes. It starts from the world you already authored, converts that terrain into a runtime-managed framework, and then layers persistence, replication, population state, procedural extension, and gameplay hooks on top.
 
+*If you have consulting and/or custom pipeline integration in mind: I offer dedicated architecture consulting for production games & projects.* 📬 Please [contact me](https://gregorigin.com/contact.html) or see my [extended portfolio](https://www.gregorigin.com/Portfolio/). 👨‍💻 
+
+
 ## 🚀 Start Here
 
 | What you need | Link |
